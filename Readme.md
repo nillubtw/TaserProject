@@ -26,7 +26,7 @@ share real-time GPS location,
 and help protect the user in moments of danger.
 
 
-Idea details 
+ Idea details 
  Our idea is to create THE SHE SHIELD, 
  a compact wearable taser, combined with an automatic emergency alert system.
  This device stays firmly attached to the wrist and can be activated instantly
